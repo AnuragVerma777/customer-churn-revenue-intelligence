@@ -1,0 +1,361 @@
+customer_id,tenure,contract,monthly_charges,total_charges,payment_method,internet_service,support_calls,customer_since,churn
+CUST-0001,56,Month-to-month,28.73,1575.62,Credit card,DSL,3.0,2023-01-03,No
+CUST-0002,67,One year,65.11,4454.27,Credit card,Fiber optic,1.0,2023-02-05,No
+CUST-0003,55,Month-to-month,51.58,2629.83,Mailed check,No,0.0,2023-03-05,No
+CUST-0004,12,One year,50.32,573.84,Credit card,No,0.0,2023-04-15,No
+CUST-0005,10,Month-to-month,69.15,725.22,Electronic check,DSL,2.0,2023-05-13,No
+CUST-0006,28,Month-to-month,88.18,2534.16,Credit card,Fiber optic,0.0,2023-06-23,No
+CUST-0007,51,One year,53.87,2734.66,Bank transfer,DSL,0.0,2023-07-13,No
+CUST-0008,41,One year,68.67,2786.96,Bank transfer,DSL,0.0,2023-08-24,Yes
+CUST-0009,16,Month-to-month,64.21,1036.73,Credit card,Fiber optic,1.0,2023-09-27,No
+CUST-0010,57,One year,48.07,2837.47,Bank transfer,DSL,0.0,2023-10-14,No
+CUST-0011,34,Month-to-month,84.7,2939.83,Bank transfer,Fiber optic,1.0,2023-11-19,Yes
+CUST-0012,27,Month-to-month,64.0,1805.07,Electronic check,No,1.0,2023-12-17,No
+CUST-0013,52,Month-to-month,72.91,3839.38,Electronic check,Fiber optic,1.0,2024-01-08,Yes
+CUST-0014,13,Two year,61.49,746.22,Credit card,DSL,1.0,2024-02-15,No
+CUST-0015,30,Month-to-month,83.35,2368.71,Bank transfer,Fiber optic,0.0,2024-03-21,No
+CUST-0016,67,One year,54.67,3655.07,Electronic check,DSL,2.0,2024-04-09,Yes
+CUST-0017,36,Two year,82.02,2923.86,Bank transfer,Fiber optic,0.0,2024-05-19,No
+CUST-0018,2,Two year,62.47,120.57,Mailed check,Fiber optic,,2024-06-08,No
+CUST-0019,48,One year,70.51,3414.18,Credit card,Fiber optic,0.0,2024-07-07,Yes
+CUST-0020,27,Two year,91.97,2386.23,Credit card,Fiber optic,0.0,2024-08-15,No
+CUST-0021,68,Month-to-month,58.83,4103.91,Electronic check,Fiber optic,5.0,2024-09-27,No
+CUST-0022,27,Month-to-month,59.63,1520.7,Credit card,Fiber optic,1.0,2024-10-12,No
+CUST-0023,13,One year,64.58,774.25,,Fiber optic,2.0,2024-11-21,Yes
+CUST-0024,17,Month-to-month,77.27,1358.86,Credit card,Fiber optic,2.0,2024-12-05,No
+CUST-0025,54,Month-to-month,50.74,2939.7,Electronic check,No,1.0,2025-01-03,No
+CUST-0026,21,Two year,60.65,1257.17,Electronic check,DSL,0.0,2025-02-15,Yes
+CUST-0027,70,One year,36.05,2656.51,Mailed check,DSL,1.0,2025-03-01,No
+CUST-0028,58,Month-to-month,50.06,3074.2,Bank transfer,DSL,1.0,2025-04-07,No
+CUST-0029,33,Month-to-month,85.55,2865.81,Electronic check,DSL,0.0,2025-05-08,Yes
+CUST-0030,11,Two year,89.66,931.6,Electronic check,Fiber optic,0.0,2025-06-10,Yes
+CUST-0031,9,Month-to-month,69.67,627.48,Electronic check,Fiber optic,2.0,2025-07-13,Yes
+CUST-0032,64,Two year,120.21,7590.36,Electronic check,Fiber optic,0.0,2025-08-20,No
+CUST-0033,4,Month-to-month,95.87,358.88,Bank transfer,Fiber optic,0.0,2025-09-08,No
+CUST-0034,61,Two year,61.96,3788.16,Mailed check,DSL,2.0,2025-10-23,No
+CUST-0035,62,Month-to-month,62.44,3819.8,Electronic check,DSL,0.0,2025-11-27,No
+CUST-0036,17,Month-to-month,77.08,1306.36,Electronic check,Fiber optic,2.0,2025-12-17,No
+CUST-0037,24,One year,70.42,1753.6,Credit card,DSL,1.0,2023-01-21,No
+CUST-0038,15,One year,95.57,1338.25,Credit card,Fiber optic,0.0,2023-02-01,No
+CUST-0039,68,Month-to-month,80.67,5130.14,Mailed check,DSL,3.0,2023-03-15,No
+CUST-0040,45,Month-to-month,23.63,1136.72,Bank transfer,DSL,3.0,2023-04-15,No
+CUST-0041,9,Month-to-month,70.7,663.03,Electronic check,DSL,2.0,2023-05-23,No
+CUST-0042,20,Month-to-month,83.75,1689.2,Electronic check,Fiber optic,2.0,2023-06-18,No
+CUST-0043,68,One year,97.93,6805.29,Bank transfer,Fiber optic,2.0,2023-07-26,No
+CUST-0044,9,One year,97.64,870.65,Credit card,Fiber optic,1.0,2023-08-04,No
+CUST-0045,22,Two year,43.35,893.64,Credit card,Fiber optic,1.0,2023-09-01,No
+CUST-0046,72,One year,81.44,5528.77,Credit card,Fiber optic,0.0,2023-10-18,No
+CUST-0047,56,Month-to-month,54.01,3075.82,Mailed check,DSL,0.0,2023-11-24,Yes
+CUST-0048,58,Month-to-month,89.24,4865.3,Credit card,Fiber optic,4.0,2023-12-27,Yes
+CUST-0049,37,One year,49.08,1876.95,Bank transfer,No,1.0,2024-01-19,No
+CUST-0050,71,One year,65.12,4389.41,Electronic check,DSL,2.0,2024-02-15,Yes
+CUST-0051,71,Month-to-month,62.93,4326.01,Credit card,DSL,0.0,2024-03-11,No
+CUST-0052,42,One year,63.75,2514.37,Bank transfer,No,1.0,2024-04-12,No
+CUST-0053,10,Month-to-month,83.0,841.73,Electronic check,Fiber optic,2.0,2024-05-27,Yes
+CUST-0054,23,Month-to-month,94.59,2111.6,Bank transfer,Fiber optic,3.0,2024-06-17,No
+CUST-0055,57,One year,96.97,5899.66,Bank transfer,DSL,1.0,2024-07-07,No
+CUST-0056,37,One year,65.23,2545.57,Credit card,Fiber optic,1.0,2024-08-23,Yes
+CUST-0057,5,Month-to-month,92.03,486.4,Electronic check,Fiber optic,1.0,2024-09-23,No
+CUST-0058,27,Month-to-month,33.53,889.06,Bank transfer,Fiber optic,4.0,2024-10-12,No
+CUST-0059,47,Month-to-month,68.02,3447.14,Electronic check,DSL,0.0,2024-11-25,No
+CUST-0060,41,Two year,99.06,4227.38,Mailed check,Fiber optic,0.0,2024-12-26,Yes
+CUST-0061,32,Month-to-month,71.27,2204.76,Electronic check,Fiber optic,0.0,2025-01-02,Yes
+CUST-0062,36,One year,52.7,1977.0,Bank transfer,Fiber optic,2.0,2025-02-06,No
+CUST-0063,5,Month-to-month,83.78,424.74,Bank transfer,Fiber optic,3.0,2025-03-17,No
+CUST-0064,62,Month-to-month,44.67,2632.88,Bank transfer,DSL,3.0,2025-04-04,No
+CUST-0065,2,Two year,56.28,116.22,Bank transfer,Fiber optic,0.0,2025-05-07,No
+CUST-0066,46,Two year,74.21,3380.94,Bank transfer,Fiber optic,5.0,2025-06-15,No
+CUST-0067,40,One year,61.74,2288.21,Mailed check,No,2.0,2025-07-18,Yes
+CUST-0068,56,Month-to-month,51.38,3016.34,Mailed check,Fiber optic,2.0,2025-08-14,No
+CUST-0069,67,Two year,86.07,5963.46,Electronic check,Fiber optic,0.0,2025-09-08,No
+CUST-0070,56,Two year,61.62,3648.45,Credit card,DSL,0.0,2025-10-18,No
+CUST-0071,1,Month-to-month,70.0,68.3,Credit card,Fiber optic,2.0,2025-11-12,No
+CUST-0072,62,Month-to-month,73.71,4454.44,Bank transfer,Fiber optic,1.0,2025-12-22,Yes
+CUST-0073,52,Two year,72.94,4094.84,Mailed check,Fiber optic,0.0,2023-01-13,No
+CUST-0074,51,One year,85.72,4068.96,Electronic check,No,0.0,2023-02-24,No
+CUST-0075,15,Month-to-month,76.19,1215.44,Bank transfer,DSL,3.0,2023-03-10,Yes
+CUST-0076,17,Month-to-month,20.0,330.34,Mailed check,DSL,2.0,2023-04-11,Yes
+CUST-0077,12,Two year,63.82,826.46,Electronic check,DSL,1.0,2023-05-05,No
+CUST-0078,49,Two year,50.81,2671.08,Mailed check,DSL,1.0,2023-06-16,No
+CUST-0079,37,Month-to-month,45.6,1569.91,Electronic check,No,0.0,2023-07-22,Yes
+CUST-0080,33,Month-to-month,62.54,1967.07,Electronic check,Fiber optic,1.0,2023-08-27,No
+CUST-0081,22,Month-to-month,88.52,1944.17,Bank transfer,Fiber optic,1.0,2023-09-27,No
+CUST-0082,24,Month-to-month,56.56,1397.24,Credit card,No,1.0,2023-10-01,No
+CUST-0083,17,Month-to-month,61.21,980.33,Mailed check,Fiber optic,1.0,2023-11-10,Yes
+CUST-0084,67,Month-to-month,53.7,3649.82,Electronic check,Fiber optic,1.0,2023-12-01,No
+CUST-0085,62,Month-to-month,65.74,4046.18,Credit card,DSL,2.0,2024-01-19,No
+CUST-0086,44,Two year,70.83,3025.59,Electronic check,DSL,2.0,2024-02-27,No
+CUST-0087,6,Month-to-month,69.66,424.23,Electronic check,Fiber optic,3.0,2024-03-23,No
+CUST-0088,10,Month-to-month,78.91,851.35,Credit card,Fiber optic,1.0,2024-04-07,Yes
+CUST-0089,43,Month-to-month,54.96,2399.04,Mailed check,No,1.0,2024-05-16,Yes
+CUST-0090,22,One year,92.94,1964.09,Credit card,Fiber optic,0.0,2024-06-04,No
+CUST-0091,44,One year,77.31,3136.3,Electronic check,DSL,3.0,2024-07-17,No
+CUST-0092,58,One year,82.67,4525.87,Bank transfer,Fiber optic,0.0,2024-08-01,No
+CUST-0093,70,Month-to-month,62.77,4659.9,Electronic check,No,1.0,2024-09-10,No
+CUST-0094,28,Month-to-month,63.94,1895.04,Credit card,DSL,1.0,2024-10-18,No
+CUST-0095,58,Month-to-month,52.96,3125.12,Electronic check,DSL,4.0,2024-11-24,Yes
+CUST-0096,42,Month-to-month,50.65,2091.26,Bank transfer,No,0.0,2024-12-16,No
+CUST-0097,10,Month-to-month,88.0,933.65,Credit card,Fiber optic,1.0,2025-01-21,No
+CUST-0098,21,Month-to-month,49.23,1109.81,Electronic check,DSL,1.0,2025-02-10,No
+CUST-0099,47,Month-to-month,74.69,3400.6,Electronic check,Fiber optic,6.0,2025-03-07,Yes
+CUST-0100,40,Month-to-month,49.63,1877.3,Credit card,DSL,0.0,2025-04-07,Yes
+CUST-0101,62,One year,54.97,3556.65,Credit card,Fiber optic,0.0,2025-05-03,No
+CUST-0102,15,Two year,38.84,552.72,Electronic check,No,0.0,2025-06-02,No
+CUST-0103,30,Month-to-month,75.36,2168.49,Electronic check,DSL,2.0,2025-07-18,Yes
+CUST-0104,12,Two year,55.51,659.15,Mailed check,DSL,1.0,2025-08-08,No
+CUST-0105,10,Month-to-month,82.71,788.42,Mailed check,DSL,0.0,2025-09-10,No
+CUST-0106,19,Month-to-month,71.3,1286.91,Electronic check,No,2.0,2025-10-05,No
+CUST-0107,72,Two year,84.78,5950.24,Credit card,Fiber optic,1.0,2025-11-23,Yes
+CUST-0108,58,One year,82.25,4390.62,Credit card,DSL,1.0,2025-12-02,No
+CUST-0109,72,Month-to-month,78.52,5556.59,Electronic check,Fiber optic,0.0,2023-01-15,No
+CUST-0110,67,Month-to-month,71.81,4948.37,Credit card,Fiber optic,3.0,2023-02-05,Yes
+CUST-0111,61,Month-to-month,53.46,3191.32,Bank transfer,No,1.0,2023-03-27,No
+CUST-0112,54,Month-to-month,59.82,3199.3,Bank transfer,DSL,3.0,2023-04-20,No
+CUST-0113,10,Month-to-month,69.34,659.87,Credit card,DSL,0.0,2023-05-07,Yes
+CUST-0114,57,Two year,58.78,3234.41,Electronic check,DSL,0.0,2023-06-05,No
+CUST-0115,49,Two year,26.38,1255.49,Electronic check,DSL,2.0,2023-07-08,No
+CUST-0116,71,Month-to-month,70.08,5011.15,Credit card,Fiber optic,4.0,2023-08-20,Yes
+CUST-0117,36,One year,69.94,2500.3,Electronic check,Fiber optic,5.0,2023-09-20,No
+CUST-0118,18,One year,84.67,1611.98,Electronic check,Fiber optic,1.0,2023-10-19,No
+CUST-0119,13,Month-to-month,79.68,972.15,Electronic check,DSL,0.0,2023-11-16,No
+CUST-0120,29,Two year,97.79,2967.83,Electronic check,Fiber optic,3.0,2023-12-04,Yes
+CUST-0121,20,Two year,54.85,1106.16,Credit card,Fiber optic,0.0,2024-01-07,No
+CUST-0122,37,One year,76.39,3041.99,Credit card,No,0.0,2024-02-07,No
+CUST-0123,23,Month-to-month,85.79,1916.83,Bank transfer,Fiber optic,3.0,2024-03-09,Yes
+CUST-0124,54,Two year,59.53,3232.03,Bank transfer,No,1.0,2024-04-07,No
+CUST-0125,5,Month-to-month,74.46,391.55,Electronic check,Fiber optic,0.0,2024-05-08,No
+CUST-0126,13,Month-to-month,54.05,729.38,Credit card,DSL,1.0,2024-06-10,Yes
+CUST-0127,19,One year,83.78,1517.55,Bank transfer,DSL,0.0,2024-07-16,No
+CUST-0128,55,Month-to-month,93.29,5088.86,Electronic check,Fiber optic,3.0,2024-08-18,No
+CUST-0129,29,Two year,36.73,1029.22,Mailed check,No,0.0,2024-09-25,No
+CUST-0130,53,One year,85.03,4579.82,Bank transfer,DSL,0.0,2024-10-07,Yes
+CUST-0131,36,Month-to-month,34.0,1187.72,Bank transfer,DSL,2.0,2024-11-11,No
+CUST-0132,41,One year,57.35,2340.05,Electronic check,Fiber optic,2.0,2024-12-13,No
+CUST-0133,35,Two year,107.41,3587.38,Electronic check,Fiber optic,0.0,2025-01-23,No
+CUST-0134,8,Month-to-month,76.46,597.72,Bank transfer,Fiber optic,2.0,2025-02-25,Yes
+CUST-0135,20,One year,47.3,887.78,Electronic check,No,0.0,2025-03-10,Yes
+CUST-0136,45,Month-to-month,77.36,3383.13,Credit card,DSL,2.0,2025-04-13,No
+CUST-0137,69,One year,61.16,4139.51,Credit card,Fiber optic,1.0,2025-05-13,No
+CUST-0138,29,One year,87.27,2567.0,Electronic check,Fiber optic,0.0,2025-06-22,No
+CUST-0139,26,Month-to-month,51.82,1361.96,Bank transfer,DSL,2.0,2025-07-16,No
+CUST-0140,34,One year,89.62,2884.27,Bank transfer,Fiber optic,0.0,2025-08-11,Yes
+CUST-0141,53,Month-to-month,57.26,3116.82,Electronic check,DSL,2.0,2025-09-14,No
+CUST-0142,4,Two year,48.65,200.22,Electronic check,No,0.0,2025-10-27,Yes
+CUST-0143,41,Month-to-month,27.79,1108.53,Credit card,No,1.0,2025-11-25,No
+CUST-0144,64,Month-to-month,71.41,4830.3,Bank transfer,Fiber optic,,2025-12-24,No
+CUST-0145,14,One year,39.81,600.33,Mailed check,Fiber optic,1.0,2023-01-23,No
+CUST-0146,44,Month-to-month,60.3,2812.11,Electronic check,Fiber optic,2.0,2023-02-20,Yes
+CUST-0147,2,One year,46.59,86.32,Bank transfer,DSL,1.0,2023-03-02,No
+CUST-0148,34,One year,89.13,3247.31,Electronic check,Fiber optic,0.0,2023-04-16,Yes
+CUST-0149,30,Two year,87.87,2440.35,Mailed check,Fiber optic,2.0,2023-05-06,No
+CUST-0150,39,Two year,67.02,2423.54,Mailed check,Fiber optic,0.0,2023-06-06,No
+CUST-0151,68,Two year,106.69,7737.51,Electronic check,Fiber optic,0.0,2023-07-09,No
+CUST-0152,41,Month-to-month,52.0,2290.41,Bank transfer,Fiber optic,1.0,2023-08-24,Yes
+CUST-0153,7,Two year,70.44,496.68,Credit card,No,2.0,2023-09-06,No
+CUST-0154,40,Two year,20.0,786.11,Mailed check,DSL,1.0,2023-10-11,No
+CUST-0155,7,Month-to-month,67.92,453.06,Credit card,Fiber optic,1.0,2023-11-04,Yes
+CUST-0156,71,Month-to-month,36.85,2433.55,Bank transfer,No,1.0,2023-12-08,Yes
+CUST-0157,15,One year,57.87,884.41,Mailed check,DSL,0.0,2024-01-05,No
+CUST-0158,63,Two year,111.44,7066.19,Electronic check,Fiber optic,2.0,2024-02-18,No
+CUST-0159,14,Month-to-month,70.37,1054.01,Credit card,DSL,1.0,2024-03-12,Yes
+CUST-0160,14,Month-to-month,56.75,739.43,Bank transfer,DSL,3.0,2024-04-21,Yes
+CUST-0161,43,Month-to-month,112.89,5104.53,Bank transfer,Fiber optic,2.0,2024-05-20,Yes
+CUST-0162,47,One year,92.49,4466.56,Bank transfer,DSL,1.0,2024-06-20,No
+CUST-0163,70,Month-to-month,58.6,3859.92,Bank transfer,DSL,2.0,2024-07-26,No
+CUST-0164,15,One year,55.56,787.32,Credit card,No,0.0,2024-08-11,No
+CUST-0165,15,Month-to-month,62.95,940.99,Bank transfer,No,1.0,2024-09-08,Yes
+CUST-0166,11,Month-to-month,68.66,789.36,Electronic check,Fiber optic,1.0,2024-10-22,Yes
+CUST-0167,54,Two year,48.63,2612.36,Bank transfer,DSL,0.0,2024-11-16,No
+CUST-0168,29,Month-to-month,79.99,2246.58,Credit card,Fiber optic,0.0,2024-12-10,No
+CUST-0169,27,Month-to-month,77.68,1934.88,Credit card,No,7.0,2025-01-24,Yes
+CUST-0170,35,Month-to-month,72.72,2664.52,Bank transfer,DSL,1.0,2025-02-16,Yes
+CUST-0171,62,Two year,70.6,4451.65,Mailed check,No,0.0,2025-03-02,No
+CUST-0172,68,Month-to-month,83.93,6117.52,Bank transfer,Fiber optic,0.0,2025-04-17,Yes
+CUST-0173,30,Two year,89.57,2532.35,Credit card,Fiber optic,1.0,2025-05-21,No
+CUST-0174,49,Two year,60.55,2934.91,Electronic check,Fiber optic,0.0,2025-06-09,No
+CUST-0175,19,One year,56.2,1079.96,Credit card,Fiber optic,0.0,2025-07-19,Yes
+CUST-0176,72,Month-to-month,66.25,4958.57,Electronic check,DSL,0.0,2025-08-10,No
+CUST-0177,27,Month-to-month,57.2,1649.01,Electronic check,Fiber optic,4.0,2025-09-05,Yes
+CUST-0178,18,One year,96.97,1735.36,Credit card,Fiber optic,0.0,2025-10-02,Yes
+CUST-0179,21,One year,62.32,1232.3,Mailed check,DSL,0.0,2025-11-07,No
+CUST-0180,68,Month-to-month,62.86,4369.72,Electronic check,No,0.0,2025-12-01,Yes
+CUST-0181,57,Month-to-month,22.84,1261.43,Mailed check,No,1.0,2023-01-12,No
+CUST-0182,45,One year,74.27,3356.83,Electronic check,DSL,1.0,2023-02-03,No
+CUST-0183,54,Two year,87.73,4741.42,Credit card,Fiber optic,0.0,2023-03-27,No
+CUST-0184,42,Month-to-month,77.09,3476.41,Credit card,No,3.0,2023-04-14,No
+CUST-0185,52,Two year,76.46,4214.82,Mailed check,Fiber optic,2.0,2023-05-01,No
+CUST-0186,21,One year,60.03,1227.72,Electronic check,No,0.0,2023-06-03,No
+CUST-0187,44,One year,55.49,2267.8,Credit card,Fiber optic,1.0,2023-07-07,No
+CUST-0188,26,Two year,91.1,2276.74,Electronic check,Fiber optic,0.0,2023-08-13,No
+CUST-0189,63,One year,84.15,4900.39,Mailed check,Fiber optic,1.0,2023-09-15,No
+CUST-0190,70,One year,61.55,4102.75,Bank transfer,DSL,1.0,2023-10-10,No
+CUST-0191,64,Two year,56.3,3437.03,Electronic check,DSL,3.0,2023-11-01,No
+CUST-0192,7,Month-to-month,74.91,531.1,Electronic check,No,0.0,2023-12-04,No
+CUST-0193,56,One year,54.78,3051.8,Mailed check,DSL,1.0,2024-01-03,No
+CUST-0194,13,One year,100.16,1376.33,Electronic check,Fiber optic,1.0,2024-02-02,No
+CUST-0195,6,One year,66.38,384.89,Electronic check,Fiber optic,1.0,2024-03-24,No
+CUST-0196,40,One year,59.06,2342.31,Bank transfer,DSL,2.0,2024-04-10,Yes
+CUST-0197,30,Month-to-month,120.14,3754.38,Electronic check,Fiber optic,1.0,2024-05-02,No
+CUST-0198,35,Month-to-month,37.8,1319.1,Bank transfer,No,3.0,2024-06-26,No
+CUST-0199,67,Month-to-month,34.12,2137.97,Bank transfer,No,0.0,2024-07-14,No
+CUST-0200,1,Month-to-month,53.11,50.28,Credit card,DSL,1.0,2024-08-16,No
+CUST-0201,46,Month-to-month,79.39,3856.29,Bank transfer,Fiber optic,2.0,2024-09-11,No
+CUST-0202,72,Month-to-month,80.55,6201.33,Electronic check,Fiber optic,4.0,2024-10-10,No
+CUST-0203,15,One year,90.91,1373.97,Credit card,Fiber optic,4.0,2024-11-09,Yes
+CUST-0204,41,Month-to-month,100.17,3902.42,Bank transfer,Fiber optic,1.0,2024-12-03,Yes
+CUST-0205,62,Month-to-month,41.23,2424.15,Electronic check,DSL,0.0,2025-01-15,No
+CUST-0206,48,Month-to-month,67.62,3066.8,Electronic check,Fiber optic,0.0,2025-02-07,No
+CUST-0207,44,Month-to-month,93.36,4373.31,Bank transfer,Fiber optic,1.0,2025-03-15,Yes
+CUST-0208,40,Month-to-month,48.76,1906.61,Electronic check,DSL,3.0,2025-04-10,No
+CUST-0209,17,Month-to-month,59.52,1062.11,Electronic check,DSL,2.0,2025-05-20,No
+CUST-0210,52,Month-to-month,25.66,1324.69,Bank transfer,DSL,0.0,2025-06-06,Yes
+CUST-0211,30,Month-to-month,74.07,2382.78,Credit card,No,1.0,2025-07-05,No
+CUST-0212,1,One year,46.29,47.13,Mailed check,No,1.0,2025-08-14,No
+CUST-0213,45,Month-to-month,56.01,2661.18,Bank transfer,Fiber optic,0.0,2025-09-26,No
+CUST-0214,35,Month-to-month,42.74,1487.27,Electronic check,No,1.0,2025-10-15,Yes
+CUST-0215,68,One year,57.5,4176.93,Electronic check,No,1.0,2025-11-17,No
+CUST-0216,19,One year,50.96,964.41,Mailed check,Fiber optic,1.0,2025-12-04,Yes
+CUST-0217,55,Month-to-month,61.23,3361.87,Electronic check,No,4.0,2023-01-21,No
+CUST-0218,11,Month-to-month,81.58,885.08,Credit card,Fiber optic,0.0,2023-02-08,Yes
+CUST-0219,38,Month-to-month,37.89,1381.83,Electronic check,DSL,1.0,2023-03-15,Yes
+CUST-0220,33,Month-to-month,74.22,2388.45,Credit card,Fiber optic,1.0,2023-04-10,No
+CUST-0221,31,Month-to-month,61.47,1945.92,Credit card,No,2.0,2023-05-24,No
+CUST-0222,67,Two year,84.51,6103.95,Electronic check,Fiber optic,0.0,2023-06-08,No
+CUST-0223,2,Month-to-month,59.03,126.47,Credit card,Fiber optic,2.0,2023-07-06,Yes
+CUST-0224,20,Month-to-month,85.15,1800.96,Electronic check,Fiber optic,2.0,2023-08-27,Yes
+CUST-0225,33,Month-to-month,70.83,2162.02,Credit card,Fiber optic,1.0,2023-09-05,Yes
+CUST-0226,29,Month-to-month,63.09,1893.06,Credit card,Fiber optic,1.0,2023-10-11,Yes
+CUST-0227,34,Month-to-month,65.47,2092.04,Credit card,DSL,2.0,2023-11-13,No
+CUST-0228,18,One year,50.61,887.88,Electronic check,DSL,2.0,2023-12-26,No
+CUST-0229,12,Month-to-month,92.47,1067.84,Bank transfer,Fiber optic,0.0,2024-01-15,No
+CUST-0230,3,Month-to-month,78.85,232.2,Electronic check,Fiber optic,0.0,2024-02-07,Yes
+CUST-0231,25,Month-to-month,60.69,1583.75,Electronic check,Fiber optic,4.0,2024-03-27,Yes
+CUST-0232,56,Two year,79.42,4158.85,Mailed check,Fiber optic,1.0,2024-04-02,No
+CUST-0233,72,One year,69.58,4687.44,Electronic check,DSL,2.0,2024-05-26,No
+CUST-0234,20,Month-to-month,80.98,1560.09,Electronic check,Fiber optic,1.0,2024-06-21,No
+CUST-0235,65,Month-to-month,45.86,2910.28,Electronic check,DSL,1.0,2024-07-24,Yes
+CUST-0236,41,Month-to-month,113.07,4391.08,Credit card,Fiber optic,3.0,2024-08-17,No
+CUST-0237,59,One year,98.56,5906.09,Electronic check,No,1.0,2024-09-07,Yes
+CUST-0238,59,Month-to-month,88.97,5580.75,Bank transfer,Fiber optic,0.0,2024-10-05,No
+CUST-0239,14,Month-to-month,46.84,708.2,Bank transfer,DSL,0.0,2024-11-07,Yes
+CUST-0240,33,Two year,76.71,2712.68,Bank transfer,No,0.0,2024-12-21,No
+CUST-0241,23,Month-to-month,59.75,1272.83,Bank transfer,Fiber optic,2.0,2025-01-10,Yes
+CUST-0242,48,Month-to-month,62.96,2958.42,Credit card,Fiber optic,2.0,2025-02-04,Yes
+CUST-0243,39,Month-to-month,78.55,3125.68,Electronic check,Fiber optic,1.0,2025-03-24,Yes
+CUST-0244,28,Month-to-month,59.36,1714.82,Bank transfer,DSL,5.0,2025-04-09,Yes
+CUST-0245,72,Month-to-month,58.21,4361.83,Electronic check,DSL,4.0,2025-05-15,No
+CUST-0246,61,Two year,66.69,3963.31,Electronic check,DSL,2.0,2025-06-16,No
+CUST-0247,51,Month-to-month,56.65,3107.37,Electronic check,No,0.0,2025-07-20,Yes
+CUST-0248,51,One year,68.69,3631.82,Electronic check,Fiber optic,1.0,2025-08-05,Yes
+CUST-0249,69,One year,73.51,5016.32,Bank transfer,DSL,0.0,2025-09-27,No
+CUST-0250,44,Two year,80.07,3403.28,Mailed check,Fiber optic,0.0,2025-10-08,No
+CUST-0251,13,One year,64.25,779.16,Bank transfer,No,0.0,2025-11-08,No
+CUST-0252,19,Two year,69.8,1395.54,Electronic check,Fiber optic,1.0,2025-12-08,No
+CUST-0253,10,Month-to-month,92.16,858.07,Credit card,No,1.0,2023-01-09,Yes
+CUST-0254,53,Month-to-month,116.59,5740.58,Credit card,Fiber optic,1.0,2023-02-14,Yes
+CUST-0255,62,Month-to-month,70.6,4063.27,Bank transfer,Fiber optic,3.0,2023-03-15,No
+CUST-0256,35,Two year,53.68,1867.45,Credit card,DSL,1.0,2023-04-08,No
+CUST-0257,24,Month-to-month,85.75,2172.48,Electronic check,Fiber optic,2.0,2023-05-12,No
+CUST-0258,18,Month-to-month,79.27,1329.12,Electronic check,Fiber optic,1.0,2023-06-03,No
+CUST-0259,43,One year,90.18,3644.41,Electronic check,Fiber optic,1.0,2023-07-23,Yes
+CUST-0260,40,One year,60.96,2359.36,Credit card,DSL,1.0,2023-08-11,No
+CUST-0261,24,Two year,52.72,1211.98,Credit card,No,1.0,2023-09-24,Yes
+CUST-0262,38,Month-to-month,74.42,2930.08,Mailed check,Fiber optic,1.0,2023-10-27,No
+CUST-0263,5,One year,53.89,289.15,Bank transfer,DSL,2.0,2023-11-03,No
+CUST-0264,43,One year,28.59,1237.13,Bank transfer,DSL,0.0,2023-12-02,No
+CUST-0265,35,One year,68.34,2446.07,Electronic check,Fiber optic,1.0,2024-01-10,No
+CUST-0266,57,One year,33.29,2010.77,Bank transfer,DSL,0.0,2024-02-08,No
+CUST-0267,49,Month-to-month,56.38,2923.56,Bank transfer,Fiber optic,3.0,2024-03-15,No
+CUST-0268,53,Month-to-month,79.51,4513.49,Electronic check,Fiber optic,0.0,2024-04-01,No
+CUST-0269,37,Month-to-month,62.73,2491.5,Electronic check,Fiber optic,3.0,2024-05-11,No
+CUST-0270,29,Month-to-month,66.57,1930.1,Mailed check,No,1.0,2024-06-06,No
+CUST-0271,3,One year,49.97,160.39,Mailed check,DSL,0.0,2024-07-06,No
+CUST-0272,39,One year,50.36,2069.83,Bank transfer,Fiber optic,0.0,2024-08-02,No
+CUST-0273,11,Month-to-month,71.39,741.44,Bank transfer,Fiber optic,2.0,2024-09-10,No
+CUST-0274,66,Two year,27.53,1841.87,Credit card,DSL,2.0,2024-10-26,No
+CUST-0275,57,Month-to-month,59.61,3412.74,Electronic check,DSL,1.0,2024-11-05,Yes
+CUST-0276,28,Two year,66.57,1998.17,Electronic check,Fiber optic,1.0,2024-12-24,No
+CUST-0277,21,One year,93.13,2011.53,Electronic check,Fiber optic,0.0,2025-01-09,No
+CUST-0278,54,Month-to-month,68.98,4020.26,Bank transfer,Fiber optic,0.0,2025-02-04,No
+CUST-0279,2,One year,66.33,141.71,Credit card,DSL,2.0,2025-03-11,Yes
+CUST-0280,2,Two year,76.95,152.7,Electronic check,Fiber optic,1.0,2025-04-11,Yes
+CUST-0281,29,One year,73.68,2288.0,Mailed check,DSL,1.0,2025-05-03,No
+CUST-0282,69,Month-to-month,77.32,5432.56,Credit card,Fiber optic,0.0,2025-06-16,Yes
+CUST-0283,17,One year,51.5,874.7,Electronic check,No,1.0,2025-07-22,No
+CUST-0284,15,Two year,58.69,890.38,Credit card,No,1.0,2025-08-09,No
+CUST-0285,31,One year,112.09,3690.37,Electronic check,Fiber optic,0.0,2025-09-05,No
+CUST-0286,46,One year,96.99,4647.13,Bank transfer,Fiber optic,1.0,2025-10-15,No
+CUST-0287,42,Two year,79.15,3454.39,Electronic check,No,4.0,2025-11-27,No
+CUST-0288,33,Two year,73.57,2387.63,Electronic check,DSL,0.0,2025-12-02,No
+CUST-0289,29,Month-to-month,55.05,1588.09,Bank transfer,DSL,0.0,2023-01-25,No
+CUST-0290,45,Month-to-month,67.82,2974.44,Electronic check,Fiber optic,2.0,2023-02-09,No
+CUST-0291,58,Two year,55.67,3102.35,Electronic check,DSL,1.0,2023-03-18,No
+CUST-0292,37,Two year,75.1,2570.7,Electronic check,No,1.0,2023-04-14,No
+CUST-0293,29,Two year,56.68,1572.7,Credit card,DSL,2.0,2023-05-26,No
+CUST-0294,13,One year,49.53,694.46,Mailed check,Fiber optic,1.0,2023-06-10,No
+CUST-0295,1,One year,42.88,44.83,Bank transfer,DSL,1.0,2023-07-11,No
+CUST-0296,10,Month-to-month,68.16,677.24,Mailed check,Fiber optic,1.0,2023-08-09,Yes
+CUST-0297,14,One year,31.4,429.79,Credit card,DSL,1.0,2023-09-22,No
+CUST-0298,57,Month-to-month,54.4,2892.82,Electronic check,DSL,1.0,2023-10-13,No
+CUST-0299,64,One year,65.43,3919.87,Credit card,DSL,1.0,2023-11-16,No
+CUST-0300,23,Month-to-month,75.36,1840.72,Mailed check,Fiber optic,2.0,2023-12-16,No
+CUST-0301,4,One year,59.01,221.57,Electronic check,DSL,0.0,2024-01-05,Yes
+CUST-0302,8,One year,80.69,633.69,Electronic check,Fiber optic,1.0,2024-02-22,No
+CUST-0303,61,Month-to-month,83.91,5339.95,Credit card,No,2.0,2024-03-15,No
+CUST-0304,72,Month-to-month,45.53,3112.32,Electronic check,DSL,1.0,2024-04-10,No
+CUST-0305,12,Month-to-month,63.87,739.77,Mailed check,DSL,0.0,2024-05-25,No
+CUST-0306,43,Month-to-month,89.25,4132.95,Mailed check,Fiber optic,0.0,2024-06-21,No
+CUST-0307,54,Month-to-month,30.68,1743.24,Electronic check,DSL,1.0,2024-07-26,No
+CUST-0308,50,One year,117.52,5813.01,Bank transfer,Fiber optic,0.0,2024-08-21,No
+CUST-0309,32,Month-to-month,73.99,2320.88,Electronic check,DSL,0.0,2024-09-15,No
+CUST-0310,28,Month-to-month,76.37,2109.08,Credit card,Fiber optic,3.0,2024-10-17,Yes
+CUST-0311,38,Month-to-month,92.55,3493.12,Electronic check,Fiber optic,3.0,2024-11-19,No
+CUST-0312,2,Month-to-month,72.53,135.63,Electronic check,Fiber optic,2.0,2024-12-01,Yes
+CUST-0313,40,Month-to-month,82.48,3112.62,Bank transfer,Fiber optic,1.0,2025-01-09,Yes
+CUST-0314,71,One year,44.27,3102.98,Bank transfer,No,1.0,2025-02-24,No
+CUST-0315,28,Two year,59.13,1673.6,Electronic check,No,2.0,2025-03-04,No
+CUST-0316,51,Month-to-month,72.64,3914.7,Bank transfer,DSL,0.0,2025-04-17,No
+CUST-0317,3,One year,79.89,246.73,Mailed check,Fiber optic,1.0,2025-05-24,No
+CUST-0318,43,Month-to-month,65.65,2635.91,Credit card,DSL,3.0,2025-06-12,Yes
+CUST-0319,18,Month-to-month,69.94,1242.46,Mailed check,Fiber optic,0.0,2025-07-25,Yes
+CUST-0320,24,One year,62.55,1505.49,Mailed check,No,1.0,2025-08-04,No
+CUST-0321,25,Month-to-month,68.43,1644.28,Electronic check,Fiber optic,2.0,2025-09-06,No
+CUST-0322,40,Month-to-month,73.32,2935.49,Electronic check,DSL,2.0,2025-10-26,No
+CUST-0323,60,One year,57.98,3537.94,Credit card,DSL,1.0,2025-11-11,No
+CUST-0324,5,Month-to-month,61.36,309.89,Electronic check,DSL,3.0,2025-12-06,Yes
+CUST-0325,35,One year,75.67,2472.37,Electronic check,No,2.0,2023-01-02,No
+CUST-0326,56,One year,78.37,4572.75,Electronic check,Fiber optic,0.0,2023-02-11,No
+CUST-0327,51,Month-to-month,40.45,2142.94,Credit card,No,1.0,2023-03-13,No
+CUST-0328,35,One year,80.77,2629.95,Electronic check,Fiber optic,2.0,2023-04-17,No
+CUST-0329,19,Month-to-month,88.47,1717.38,Mailed check,DSL,0.0,2023-05-11,Yes
+CUST-0330,28,Two year,66.24,1735.29,Credit card,Fiber optic,2.0,2023-06-25,No
+CUST-0331,47,One year,79.33,3591.24,Bank transfer,DSL,0.0,2023-07-23,No
+CUST-0332,44,Month-to-month,93.85,4282.44,Electronic check,No,1.0,2023-08-07,Yes
+CUST-0333,33,Month-to-month,87.49,2779.67,Mailed check,DSL,3.0,2023-09-02,No
+CUST-0334,16,Month-to-month,59.78,963.64,Credit card,DSL,1.0,2023-10-07,No
+CUST-0335,67,Two year,39.62,2607.94,Mailed check,No,1.0,2023-11-22,No
+CUST-0336,19,Month-to-month,65.39,1180.13,Mailed check,Fiber optic,3.0,2023-12-17,No
+CUST-0337,68,Month-to-month,56.92,3728.5,Electronic check,DSL,2.0,2024-01-01,No
+CUST-0338,20,Month-to-month,99.35,2000.27,Electronic check,Fiber optic,0.0,2024-02-27,Yes
+CUST-0339,10,One year,70.88,733.91,Mailed check,Fiber optic,0.0,2024-03-07,Yes
+CUST-0340,55,Two year,58.06,3446.73,Electronic check,DSL,0.0,2024-04-14,No
+CUST-0341,5,Two year,69.56,353.28,Bank transfer,DSL,1.0,2024-05-02,Yes
+CUST-0342,26,Month-to-month,81.44,2053.78,Electronic check,Fiber optic,0.0,2024-06-09,No
+CUST-0343,71,Two year,76.57,5068.22,Electronic check,DSL,1.0,2024-07-21,No
+CUST-0344,44,Two year,66.87,2878.58,Credit card,DSL,1.0,2024-08-22,No
+CUST-0345,1,Month-to-month,58.6,54.67,Mailed check,Fiber optic,0.0,2024-09-19,Yes
+CUST-0346,53,Two year,68.0,3719.28,Electronic check,Fiber optic,0.0,2024-10-26,No
+CUST-0347,47,Month-to-month,81.64,3568.53,Bank transfer,Fiber optic,6.0,2024-11-06,Yes
+CUST-0348,8,Month-to-month,66.06,516.2,Electronic check,DSL,1.0,2024-12-06,No
+CUST-0349,1,Month-to-month,90.53,93.1,Electronic check,Fiber optic,2.0,2025-01-17,No
+CUST-0350,15,One year,118.08,1667.07,Bank transfer,Fiber optic,1.0,2025-02-13,Yes
+CUST-0351,69,Month-to-month,83.11,5786.17,Electronic check,Fiber optic,2.0,2025-03-13,Yes
+CUST-0352,25,Two year,51.58,1194.04,Mailed check,Fiber optic,1.0,2025-04-09,No
+CUST-0353,58,Month-to-month,68.35,3692.68,Electronic check,DSL,0.0,2025-05-08,No
+CUST-0354,35,Month-to-month,79.29,2817.23,Electronic check,Fiber optic,1.0,2025-06-01,No
+CUST-0355,47,One year,75.45,3639.56,Credit card,DSL,1.0,2025-07-05,Yes
+CUST-0356,3,Month-to-month,78.62,230.3,Electronic check,Fiber optic,2.0,2025-08-13,Yes
+CUST-0357,52,One year,79.4,3815.99,Bank transfer,DSL,1.0,2025-09-17,No
+CUST-0358,68,Month-to-month,38.53,2421.13,Electronic check,No,0.0,2025-10-04,Yes
+CUST-0359,44,Month-to-month,66.19,3023.01,Mailed check,No,1.0,2025-11-13,Yes
+CUST-0360,8,Month-to-month,85.28,682.95,Electronic check,Fiber optic,4.0,2025-12-24,No
