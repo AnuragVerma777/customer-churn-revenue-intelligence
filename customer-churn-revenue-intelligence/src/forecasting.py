@@ -42,16 +42,19 @@ def forecast_series(
     value_column: str,
     periods: int = 6,
 ) -> pd.DataFrame | None:
-    """Forecast a numeric monthly series with month number -> value linear regression."""
+    """Forecast a numeric monthly series using calendar-month offsets."""
 
     if history is None or value_column not in history.columns:
         return None
     usable = history[["month", value_column]].dropna().copy()
     if len(usable) < 3:
         return None
-    usable["month_number"] = np.arange(len(usable), dtype=float)
+    usable["month"] = pd.to_datetime(usable["month"])
+    calendar_month = usable["month"].dt.year * 12 + usable["month"].dt.month
+    usable["month_number"] = (calendar_month - calendar_month.min()).astype(float)
     model = LinearRegression().fit(usable[["month_number"]], usable[value_column])
-    future_numbers = np.arange(len(usable), len(usable) + periods, dtype=float)
+    last_month_number = int(usable["month_number"].max())
+    future_numbers = np.arange(last_month_number + 1, last_month_number + periods + 1, dtype=float)
     last_month = pd.Timestamp(usable["month"].max())
     future_months = pd.date_range(last_month + pd.offsets.MonthBegin(1), periods=periods, freq="MS")
     forecast = model.predict(pd.DataFrame({"month_number": future_numbers}))
