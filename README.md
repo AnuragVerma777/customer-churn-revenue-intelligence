@@ -23,7 +23,6 @@ The app includes a synthetic demo dataset at `data/sample_customer_churn.csv`. U
 - Shows customer churn probabilities, configurable risk bands, and revenue at risk.
 - Provides segment analysis, retention scenarios, recommendations, and six-month trend forecasts when usable date history is available.
 - Exports scored customers and the trained model.
-
 ## Documentation
 
 See the [project README](customer-churn-revenue-intelligence/README.md) for dataset guidance, methodology, assumptions and limitations.
