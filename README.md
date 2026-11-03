@@ -25,5 +25,5 @@ The app includes a synthetic demo dataset at `data/sample_customer_churn.csv`. U
 - Exports scored customers and the trained model.
 ## Documentation
 
-See the [project README](customer-churn-revenue-intelligence/README.md) for dataset guidance, methodology, assumptions and limitations.
+See the [project README](customer-churn-revenue-intelligence/README.md) for dataset guidance, methodology and limitations.
 
